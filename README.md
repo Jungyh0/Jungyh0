@@ -14,7 +14,7 @@
   <br/>
   <br/>
 
-## 🧱 Tech Stack
+## 🎉 Tech Stack 🎉
   ### Language
   <!--C-->
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
@@ -25,6 +25,6 @@
   <br/>
   
 
-  ## 🤔 Github Stats
+  ## 😎 Github Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungyh0&show_icons=true&theme=react)
   <br/>
