@@ -16,9 +16,8 @@
   #### :mortar_board: Currently attending Sungkyul University(SKU)
   <br/>
   <br/>
-
+ ## 🧱 Tech Stack
+  ### Language
+  <!--C++-->
+  <img src = "https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   </div>
-
-📖my skills📖
-<!--CSS-->
-<img src = "https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
