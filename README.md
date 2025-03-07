@@ -30,9 +30,8 @@
   <br/>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
   <div>
-    <div> 
     <a href=https://velog.io/@dudghks048/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@dudghks048/posts"> </a>
-          </div>  <br> 
+ <br> 
     <div style="text-align: left;">  </div> 
     </div>
       <div>
