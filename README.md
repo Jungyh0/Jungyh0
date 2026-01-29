@@ -9,7 +9,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a Computer Engineer from South Korea.<br/>
-  #### :fire: I aim to become a game Engineer.<br/>
+  #### :fire: I aim to become a Computer Engineer.<br/>
   #### :mortar_board: Currently attending Sungkyul University(SKU)
   <br/>
   <br/>
