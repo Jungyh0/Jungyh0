@@ -11,7 +11,7 @@
   <br/>
   <br/>
 
-# 📝 Project
+# 🖥️Project
 진행했던 프로젝트입니다.
 
  ## 📸SEIZMO
@@ -24,7 +24,7 @@
 >
 >[프로젝트 상세](https://github.com/Jungyh0/SEIZMO)
 
-## 리뷰 분석 Agent
+## 📝리뷰 분석 Agent
 ### LLM기반 사용자 리뷰 분석 및 피드백 AI Agent
 >● 진행 기간: 2026.05.11 ~ 2026.05.13
 >
