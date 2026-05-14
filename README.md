@@ -7,7 +7,6 @@
 ### 알고리즘 문제를 풀며 알고리즘 개념을 익혔습니다.
 ### 이해한 내용을 Github, Notion, Velog에 기록했습니다.  
   <br/>
-  <br/>
   
 # 🎖️Awards
 >성결대학교 주관 게임 잼 대회 (2025.07)
@@ -46,9 +45,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <!--Pyhon-->
   <img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/3bd4826e-0a3c-4f36-b649-786e829ba8d3" />
-
-
-  
+  <br/>
   <!--Java-->
   <img width="33" height="20" alt="image" src="https://github.com/user-attachments/assets/bb5ebaf0-ecba-47eb-9b69-59820d189f7e" />
 
