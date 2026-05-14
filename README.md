@@ -7,10 +7,10 @@
 <div>
   <!--Body-->
   
-  ## 👀 About Me
-  #### :raising_hand: I am a Computer Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Computer Engineer.<br/>
-  #### :mortar_board: Currently attending Sungkyul University(SKU)
+  ## 👋 Intro
+> 안녕하세요! ***"항상 새로운 것을 배우고 도전하고 싶은"*** 정영입니다!
+> 다양한 팀 프로젝트를 진행하여 백엔드 개발자 역량을 길렀고  
+> 이해한 내용을 Github, Notion, Velog에 기록했습니다.  
   <br/>
   <br/>
 
