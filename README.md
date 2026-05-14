@@ -21,7 +21,7 @@
 >● 역할: 백엔드 개발, 데이터 수집
 >
 >● 성결대학교주관 AI활용 경진대회 3위 수상
-
+https://github.com/Jungyh0/SEIZMO
 
 # ✨ Tech stack
   <!--C-->
