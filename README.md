@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <!--C++-->
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <!--Pyhon-->
+  <img src="https://img.shields.io/badge/Pyhon-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   
   <br/>
   <br/>
