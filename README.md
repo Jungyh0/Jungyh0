@@ -13,6 +13,8 @@
 # 📝 Project
 진행했던 프로젝트입니다.
 
+## SEIZMO
+### Face Swap 기반 얼굴 합성 포토부스 
 
 # ✨ Tech stack
   <!--C-->
