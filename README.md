@@ -16,7 +16,7 @@
 
  ## 📸SEIZMO
 ### Face Swap 기반 얼굴 합성 포토부스 
->● 진행 기간: 2025. 07. 03 ~ 2026. 01. 02
+>● 진행 기간: 2025.07.03 ~ 2026.01.02
 >
 >● 역할: 백엔드 개발, 데이터 수집
 >
@@ -24,7 +24,18 @@
 >
 >[프로젝트 상세](https://github.com/Jungyh0/SEIZMO)
 
-# ✨ Tech stack
+## 리뷰 분석 Agent
+### LLM기반 사용자 리뷰 분석 및 피드백 AI Agent
+>● 진행 기간: 2026.05.11 ~ 2026.05.13
+>
+>● 역할: DB 관리, State 정의 및 관리, 피브백 분석 Agent 생성 및 관리
+>
+>● kt aivle school 미니 프로젝트
+>
+>[프로젝트 상세](https://github.com/Jungyh0/mini_project_3)
+
+
+# ✨ Tech stac
   <!--C-->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <!--C++-->
