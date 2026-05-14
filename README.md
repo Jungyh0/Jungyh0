@@ -10,7 +10,11 @@
   <br/>
   <br/>
 
-## ✨ Tech stack
+# 📝 Project
+진행했던 프로젝트입니다.
+
+
+# ✨ Tech stack
   <!--C-->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <!--C++-->
